@@ -1,0 +1,3 @@
+# Only standard library is required for the main app (Tkinter, csv, os, etc.)
+# For testing, install pytest.
+pytest

@@ -1,0 +1,2 @@
+id,name,sku,price,stock,reorder_level,supplier
+2,Fish,23456,100.00,400,5,Amaka
